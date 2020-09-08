@@ -1,4 +1,4 @@
-package testhuawei0902;
+package test0902;
 
 
 import java.util.ArrayList;
