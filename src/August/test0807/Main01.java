@@ -1,6 +1,5 @@
-package test0807;
+package August.test0807;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 

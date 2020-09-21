@@ -1,4 +1,4 @@
-package test0816;
+package August.test0816;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
