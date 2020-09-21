@@ -30,6 +30,9 @@ public class Test4 {
 
         System.out.println(max);
 
+        while (input.hasNext()) {
+            String s = input.nextLine();
+        }
     }
 
     /**
