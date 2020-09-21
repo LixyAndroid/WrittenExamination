@@ -1,4 +1,4 @@
-package test0812meituan;
+package test0812;
 
 import java.util.Arrays;
 
