@@ -1,4 +1,4 @@
-package test0821tengxun;
+package test0821;
 import java.util.HashMap;
 
 /**
