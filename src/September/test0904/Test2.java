@@ -1,4 +1,4 @@
-package test0904;
+package September.test0904;
 
 import java.util.Scanner;
 
